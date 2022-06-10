@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Aneta
+### Hi there 👋
 
 <!--
 **anetastankovska/anetastankovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
+👋 Hello! I'm Aneta.
+
+- 🔭 I’m currently working on projects that include technologies like HTML, CSS, JavaScript, C#, SQL...
 - 🌱 I’m currently attenduing an academy for Full Stack Web Development at Seavus Education and Developmen Center
 - 👯 I’m looking to collaborate on projects that include web development technologies.
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
