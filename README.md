@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Aneta
 
 <!--
 **anetastankovska/anetastankovska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-👋 Hello! I'm Aneta.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently attenduing an academy for Full Stack Web Development at Seavus Education and Developmen Center
