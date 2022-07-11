@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently attenduing an academy for Full Stack Web Development at Seavus Education and Developmen Center
 - 👯 I’m looking to collaborate on projects that include web development technologies.
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
-- ⚡ Fun fact: I am coming from an HR backgound
+- ⚡ Fun fact: I am coming from an HR background
