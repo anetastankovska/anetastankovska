@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 👋 Hello! I'm Aneta.
 
-- 🔭 I’m currently working on projects that include technologies like HTML, CSS, JavaScript, C#, SQL...
+- 🔭 I’m currently working on projects that include technologies like JavaScript, Angular, Node.js, C#, SQL...
 - 🌱 I’m currently attenduing an academy for Full Stack Web Development at Seavus Education and Developmen Center
-- 👯 I’m looking to collaborate on projects that include web development technologies.
+- 👯 Web Development Trainee @ Soucico
+- ✨ Assistent Lecturer @ Seavus Education and Development Center
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
 - ⚡ Fun fact: I am coming from an HR background
