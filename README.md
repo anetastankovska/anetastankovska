@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on projects that include technologies like JavaScript, Angular, Node.js, C#, SQL...
 - 🌱 I’m currently attenduing an academy for Full Stack Web Development at Seavus Education and Developmen Center
 - 👯 Web Development Trainee @ Soucico
-- ✨ Assistent Lecturer @ Seavus Education and Development Center
+- ✨ Assistant Lecturer @ Seavus Education and Development Center
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
 - ⚡ Fun fact: I am coming from an HR background
