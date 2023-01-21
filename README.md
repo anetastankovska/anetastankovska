@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 - ✨ Assistant Lecturer @ Seavus Education and Development Center
 - ⚡ BSc. and MSc. degree in the field of Economics, Finance, Tax and Banking
 - 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
-- ⚡ Fun fact: I am coming from an HR background.
+- ⚡ Fun fact: I come from an HR background.
  
