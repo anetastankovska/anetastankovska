@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 👋 Hello! I'm Aneta.
 
-- 🔭 I’m currently working on projects that include technologies and frameworks like JavaScript, TypeScript, Node.js, Angular, MongoDb, mySQL, AWS...
-- 🔭 Business domain: FinTech 
-- ⚡ Formal education: BSc. and MSc. degree in the field of Economics, Finance, Tax and Banking
+- 🏢 Currently working with technologies and frameworks like JavaScript, TypeScript, Node.js, Angular, MongoDb, mySQL, AWS...
+- 📝 Business domain: FinTech 
+- 🎓 Formal education: BSc. and MSc. degree in the field of Economics, Finance, Tax and Banking
 - 🌱 Informal education: Academy for Full Stack Web Development at Seavus Education and Development Center
-- ⚡ Additional education and trainings: certificates available on the LinkedIn profile
-- 👯 Full Stack Web Developer @ Soucico
+- 💫 Additional education and trainings: certificates available on the LinkedIn profile
+- 💻 Full Stack Web Developer @ Soucico
 - ✨ Assistant Lecturer @ Seavus Education and Development Center
-- 📫 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
+- 😎 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
 
  
