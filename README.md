@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 📝 Business domain: FinTech 
 - 🎓 Formal education: BSc. and MSc. degree in the field of Economics, Finance, Tax and Banking
 - 🌱 Informal education: Academy for Full Stack Web Development at Seavus Education and Development Center
-- 💫 Additional education and trainings: certificates available on the LinkedIn profile
+- 💫 Additional education and training: certificates available on the LinkedIn profile. Some available only upon request.
 - 💻 Full Stack Web Developer @ Soucico
-- ✨ Assistant Lecturer @ Seavus Education and Development Center
+- ✨ Technical Trainer @ Seavus Education and Development Center 
 - 😎 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
 
  
