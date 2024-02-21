@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 - 🏢 Currently working with technologies and frameworks like JavaScript, TypeScript, Node.js, Angular, MongoDb, mySQL, AWS...
 - 📝 Business domain: FinTech 
-- 🎓 Formal education: BSc. and MSc. degree in the field of Economics, Finance, Tax and Banking
-- 🌱 Informal education: Academy for Full Stack Web Development at Seavus Education and Development Center
-- 💫 Additional education and training: certificates available on the LinkedIn profile. Some available only upon request.
+- 🎓 Academic Formal education: BSc. and MSc. degree in the field of Economics, Mathematics, Statistics, Finance, Tax and Banking
+- 🌱 Non-academic formal education: Academy for Full Stack Web Development at Seavus Education and Development Center
+- 💫 Additional education and training: certificates available on the LinkedIn profile or upon request.
 - 💻 Full Stack Web Developer @ Soucico
 - ✨ Technical Trainer @ Seavus Education and Development Center 
 - 😎 How to reach me: [Linkedin profile](https://www.linkedin.com/in/aneta-stankovska-ane/)
