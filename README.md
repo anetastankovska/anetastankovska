@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🏢 Currently working with technologies and frameworks like JavaScript, TypeScript, Node.js, Angular, MongoDb, mySQL, AWS...
 - 📝 Business domain: FinTech 
 - 🎓 Academic Formal education: BSc. and MSc. degree in the field of Economics, Mathematics, Statistics, Finance, Tax and Banking.
-- 🎓 Currently attending MSc. studies at the Faculty Computer Science and Engineering (FINKI) Skopje.
+- 🎓 Currently attending MSc. studies at the Faculty of Computer Science and Engineering (FINKI) Skopje.
 - 🌱 Non-academic formal education: Academy for Full Stack Web Development at Seavus Education and Development Center
 - 💫 Additional education and training: certificates available on the LinkedIn profile or upon request.
 - 💻 Full Stack Web Developer @ Soucico
